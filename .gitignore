@@ -10,7 +10,6 @@ coverage
 
 # production
 
-
 # misc
 .env
 .DS_Store
